@@ -1,37 +1,161 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Farhan Ahmed — Developer Portfolio
 
-## Getting Started
+A modern, responsive, and high-performance developer portfolio built with **Next.js**, **TypeScript**, **Tailwind CSS**, **Framer Motion**, and **GSAP**.
 
-First, run the development server:
+This portfolio showcases my projects, technical skills, and journey as a Frontend Developer, with a strong focus on clean UI, smooth animations, accessibility, performance, and modern web development practices.
+
+---
+
+## 🌐 Live Demo
+
+> **Website:** link
+
+---
+
+## ✨ Features
+
+* 🎨 Modern & Premium UI/UX
+* 📱 Fully Responsive Design
+* ⚡ Optimized Performance
+* 🌙 Dark Theme
+* ✨ Smooth Animations
+* 🚀 Built with Next.js App Router
+* ♿ Accessible Components
+* 🔍 SEO Optimized
+* 🧩 Reusable Component Architecture
+* 💼 Featured Projects Showcase
+* 🛠 Skills & Technologies
+* 📬 Contact Section
+* 🎯 Optimized for Recruiters & Clients
+
+---
+
+## 🛠 Tech Stack
+
+### Framework
+
+- Next.js 15
+
+### Language
+
+- TypeScript
+
+### Library
+
+- React 19
+
+### Styling
+
+- Tailwind CSS
+
+### Animation
+
+- Framer Motion
+
+### Icons
+
+- Lucide React
+- React Icons
+
+### Development Tools
+
+- Git
+- GitHub
+- VS Code
+
+### Deployment
+
+- Vercel
+
+---
+
+## 📦 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
+
+Go to the project directory
+
+```bash
+cd portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open **http://localhost:3000** in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🏗 Build for Production
 
-## Learn More
+```bash
+npm run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+Run the production build
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📈 Lighthouse Goals
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+| Metric         | Score |
+| -------------- | ----: |
+| Performance    |   95+ |
+| Accessibility  |   100 |
+| Best Practices |   100 |
+| SEO            |   100 |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-"# portfolio" 
+---
+
+## 🚀 Future Improvements
+
+* Blog Integration
+* Project Filtering
+* Case Studies
+* CMS Integration
+
+---
+
+## 📬 Contact
+
+Feel free to reach out if you'd like to collaborate or have an opportunity.
+
+* 🌐 Portfolio: link
+* 💼 LinkedIn: https://www.linkedin.com/in/muhammad-farhan-ahmed-dev/
+* 💻 GitHub: https://github.com/mfarhanahmedcode
+* 📧 Email: [farhanahmed.code@gmail.com](mailto:farhanahmed.code@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you found this project helpful or inspiring, consider giving it a ⭐ on GitHub.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**. See the **LICENSE** file for more information.
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Farhan Ahmed</strong>
+</p>
