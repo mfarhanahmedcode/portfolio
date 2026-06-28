@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: "Muhammad Farhan Ahmed",
     description:
       "Frontend developer building modern web applications with Next.js, React, and TypeScript.",
-    url: "https://website.com",
+    url: "https://m-farhan-code.vercel.app/",
     siteName: "Muhammad Farhan Ahmed",
     type: "website",
 
