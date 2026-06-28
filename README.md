@@ -8,7 +8,7 @@ This portfolio showcases my projects, technical skills, and journey as a Fronten
 
 ## 🌐 Live Demo
 
-> **Website:** link
+> **Website:** https://m-farhan-code.vercel.app
 
 ---
 
@@ -117,9 +117,9 @@ npm start
 
 | Metric         | Score |
 | -------------- | ----: |
-| Performance    |   95+ |
-| Accessibility  |   100 |
-| Best Practices |   100 |
+| Performance    |   91  |
+| Accessibility  |   94  |
+| Best Practices |   96  |
 | SEO            |   100 |
 
 ---
@@ -137,7 +137,7 @@ npm start
 
 Feel free to reach out if you'd like to collaborate or have an opportunity.
 
-* 🌐 Portfolio: link
+* 🌐 Portfolio: https://m-farhan-code.vercel.app
 * 💼 LinkedIn: https://www.linkedin.com/in/muhammad-farhan-ahmed-dev/
 * 💻 GitHub: https://github.com/mfarhanahmedcode
 * 📧 Email: [farhanahmed.code@gmail.com](mailto:farhanahmed.code@gmail.com)
