@@ -57,10 +57,10 @@ export default function Hero() {
           className="flex flex-wrap gap-4 items-center justify-center"
         >
           <Button className="px-6 py-5 rounded-full bg-gradient-to-r from-cyan-400 to-[#4f7cff] hover:shadow-lg hover:shadow-[#4f7cff]/30">
-            <Link href="/">View My Work</Link>
+            <Link href="#projects">View My Work</Link>
           </Button>
           <Button className="px-6 py-5 rounded-full bg-[#4f7cff26]/30 border-white text-[#A0A0A0] hover:text-white hover:border-[#3B82F6]/50 hover:bg-[#3B82F6]/10 transition-all duration-200 hover:shadow-lg hover:shadow-[#4f7cff]/30">
-            <Link href="/">Get in Touch</Link>
+            <Link href="resume.pdf" target="_blank" rel="noopener noreferrer" >View Resume -&gt;</Link>
           </Button>
         </motion.div>
         <motion.div

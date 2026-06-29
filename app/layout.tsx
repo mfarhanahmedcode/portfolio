@@ -29,7 +29,7 @@ export const metadata: Metadata = {
 
     images: [
       {
-        url: "/og-image.webp",
+        url: "https://m-farhan-code.vercel.app/images/og-image.webp",
         width: 1200,
         height: 630,
         alt: "Muhammad Farhan Ahmed Portfolio",

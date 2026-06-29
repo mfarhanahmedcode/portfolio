@@ -105,7 +105,6 @@ export default function Project() {
               key={index}
               className="overflow-hidden p-4 bg-[#4f7cff26]/30 border border-[#2A2A2A] rounded-2xl hover:border-[#3B82F6]/40 hover:-translate-y-1.5 transition-all duration-300 group cursor-default"
             >
-              {/* Image */}
               <div className="relative w-full h-52">
                 <Image
                   src={item.image}
@@ -115,20 +114,13 @@ export default function Project() {
                   className="object-cover rounded-2xl"
                 />
               </div>
-
-              {/* Content */}
               <div className="p-4 flex flex-col gap-4">
-                {/* Title */}
                 <h3 className="text-xl sm:text-2xl wrap-break-words font-semibold text-white group-hover:text-[#3B82F6]">
                   {item.name}
                 </h3>
-
-                {/* Description */}
                 <p className="text-gray-400 leading-relaxed">
                   {item.description}
                 </p>
-
-                {/* Highlights */}
                 <ul className="flex flex-col gap-2">
                   {item.highlights.map((point, i) => (
                     <li
@@ -140,8 +132,6 @@ export default function Project() {
                     </li>
                   ))}
                 </ul>
-
-                {/* Tags */}
                 <div className="flex flex-wrap gap-2">
                   {item.tags.map((tag, i) => (
                     <span
@@ -152,8 +142,6 @@ export default function Project() {
                     </span>
                   ))}
                 </div>
-
-                {/* Buttons */}
                 <div className="flex flex-wrap gap-3 mt-2">
                   <Link
                     href={item.live}
@@ -163,7 +151,6 @@ export default function Project() {
                     <FaExternalLinkAlt />
                     Live Demo
                   </Link>
-
                   <Link
                     href={item.github}
                     target="_blank"

@@ -84,8 +84,7 @@ export default function Navbar() {
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 px-6 py-3 rounded-full text-white bg-gradient-to-r from-cyan-400 to-[#4f7cff] hover:shadow-lg hover:shadow-[#4f7cff]/30"
           >
-            Resume
-            <Download size={18} />
+            Resume -&gt;
           </Link>
         </li>
       </ul>
@@ -95,8 +94,7 @@ export default function Navbar() {
         rel="noopener noreferrer"
         className="hidden lg:flex items-center gap-2 px-6 py-3 rounded-full text-white bg-gradient-to-r from-cyan-400 to-[#4f7cff] hover:shadow-lg hover:shadow-[#4f7cff]/30"
       >
-        Resume
-        <Download size={18} />
+        Resume -&gt;
       </Link>
 
       {/* Mobile menu button */}
